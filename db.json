@@ -1,0 +1,245 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Classic Cotton T-Shirt",
+      "category": "T-Shirts",
+      "price": 25,
+      "stock": 30,
+      "brand": "Nike"
+    },
+    {
+      "id": "2",
+      "name": "Oversized Graphic T-Shirt",
+      "category": "T-Shirts",
+      "price": 30,
+      "stock": 24,
+      "brand": "Adidas"
+    },
+    {
+      "id": "3",
+      "name": "Premium Polo Shirt",
+      "category": "Shirts",
+      "price": 45,
+      "stock": 18,
+      "brand": "Lacoste"
+    },
+    {
+      "id": "4",
+      "name": "Slim Fit Oxford Shirt",
+      "category": "Shirts",
+      "price": 50,
+      "stock": 15,
+      "brand": "H&M"
+    },
+    {
+      "id": "5",
+      "name": "Classic Denim Jacket",
+      "category": "Jackets",
+      "price": 70,
+      "stock": 12,
+      "brand": "Levi's"
+    },
+    {
+      "id": "6",
+      "name": "Premium Leather Jacket",
+      "category": "Jackets",
+      "price": 150,
+      "stock": 8,
+      "brand": "Zara"
+    },
+    {
+      "id": "7",
+      "name": "Lightweight Bomber Jacket",
+      "category": "Jackets",
+      "price": 85,
+      "stock": 14,
+      "brand": "Puma"
+    },
+    {
+      "id": "8",
+      "name": "Classic Blue Jeans",
+      "category": "Jeans",
+      "price": 55,
+      "stock": 25,
+      "brand": "Levi's"
+    },
+    {
+      "id": "9",
+      "name": "Slim Fit Black Jeans",
+      "category": "Jeans",
+      "price": 60,
+      "stock": 20,
+      "brand": "H&M"
+    },
+    {
+      "id": "10",
+      "name": "Relaxed Fit Jeans",
+      "category": "Jeans",
+      "price": 65,
+      "stock": 17,
+      "brand": "Zara"
+    },
+    {
+      "id": "11",
+      "name": "Classic Chino Pants",
+      "category": "Trousers",
+      "price": 50,
+      "stock": 22,
+      "brand": "Uniqlo"
+    },
+    {
+      "id": "12",
+      "name": "Cargo Trousers",
+      "category": "Trousers",
+      "price": 55,
+      "stock": 19,
+      "brand": "Nike"
+    },
+    {
+      "id": "13",
+      "name": "Formal Dress Pants",
+      "category": "Trousers",
+      "price": 65,
+      "stock": 13,
+      "brand": "Hugo Boss"
+    },
+    {
+      "id": "14",
+      "name": "Classic Hoodie",
+      "category": "Hoodies",
+      "price": 60,
+      "stock": 20,
+      "brand": "Nike"
+    },
+    {
+      "id": "15",
+      "name": "Pullover Hoodie",
+      "category": "Hoodies",
+      "price": 55,
+      "stock": 23,
+      "brand": "Adidas"
+    },
+    {
+      "id": "16",
+      "name": "Premium Zip Hoodie",
+      "category": "Hoodies",
+      "price": 75,
+      "stock": 14,
+      "brand": "Puma"
+    },
+    {
+      "id": "17",
+      "name": "Classic Sports Shorts",
+      "category": "Shorts",
+      "price": 35,
+      "stock": 28,
+      "brand": "Nike"
+    },
+    {
+      "id": "18",
+      "name": "Denim Shorts",
+      "category": "Shorts",
+      "price": 40,
+      "stock": 21,
+      "brand": "Levi's"
+    },
+    {
+      "id": "19",
+      "name": "Casual Cotton Shorts",
+      "category": "Shorts",
+      "price": 30,
+      "stock": 26,
+      "brand": "H&M"
+    },
+    {
+      "id": "20",
+      "name": "Summer Floral Dress",
+      "category": "Dresses",
+      "price": 65,
+      "stock": 16,
+      "brand": "Zara"
+    },
+    {
+      "id": "21",
+      "name": "Elegant Evening Dress",
+      "category": "Dresses",
+      "price": 120,
+      "stock": 8,
+      "brand": "Mango"
+    },
+    {
+      "id": "22",
+      "name": "Casual Midi Dress",
+      "category": "Dresses",
+      "price": 75,
+      "stock": 14,
+      "brand": "H&M"
+    },
+    {
+      "id": "23",
+      "name": "Classic Running Shoes",
+      "category": "Shoes",
+      "price": 90,
+      "stock": 15,
+      "brand": "Nike"
+    },
+    {
+      "id": "24",
+      "name": "Ultraboost Running Shoes",
+      "category": "Shoes",
+      "price": 130,
+      "stock": 10,
+      "brand": "Adidas"
+    },
+    {
+      "id": "25",
+      "name": "Classic Leather Sneakers",
+      "category": "Shoes",
+      "price": 85,
+      "stock": 18,
+      "brand": "Puma"
+    },
+    {
+      "id": "26",
+      "name": "Canvas Casual Sneakers",
+      "category": "Shoes",
+      "price": 55,
+      "stock": 22,
+      "brand": "Converse"
+    },
+    {
+      "id": "27",
+      "name": "Classic Baseball Cap",
+      "category": "Accessories",
+      "price": 25,
+      "stock": 30,
+      "brand": "Nike"
+    },
+    {
+      "id": "28",
+      "name": "Leather Belt",
+      "category": "Accessories",
+      "price": 35,
+      "stock": 25,
+      "brand": "Levi's"
+    },
+    {
+      "id": "29",
+      "name": "Wool Winter Scarf",
+      "category": "Accessories",
+      "price": 30,
+      "stock": 18,
+      "brand": "Uniqlo"
+    },
+    {
+      "id": "30",
+      "name": "Classic Leather Backpack",
+      "category": "Accessories",
+      "price": 80,
+      "stock": 12,
+      "brand": "Zara"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
